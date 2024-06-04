@@ -11,4 +11,4 @@ SKN02-1st-5Team
 ![007](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN02-1st-5Team/assets/34640735/76a558ea-a74d-4df4-a237-738b8e5da364)
 ![008](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN02-1st-5Team/assets/34640735/928273e3-234c-4110-bca4-a9fd957e17b0)
 
-[SKN_AI_CAMP1 (1).pdf](https://github.com/user-attachments/files/15545249/SKN_AI_CAMP1.1.pdf)
+![skn_ai_프젝1_명세서](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN02-1st-5Team/assets/105333311/fdde3b42-dd58-40c8-a7c6-46837bb32efd)
