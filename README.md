@@ -10,6 +10,3 @@ SKN02-1st-5Team
 ![006](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN02-1st-5Team/assets/34640735/08814ef8-3a79-4e52-8835-e6ef995a5bc8)
 ![007](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN02-1st-5Team/assets/34640735/76a558ea-a74d-4df4-a237-738b8e5da364)
 ![008](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN02-1st-5Team/assets/34640735/928273e3-234c-4110-bca4-a9fd957e17b0)
-
-
-[SKN_AI_CAMP1.pdf](https://github.com/user-attachments/files/15543444/SKN_AI_CAMP1.pdf)
